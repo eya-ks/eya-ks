@@ -2,8 +2,7 @@
 I am Eya Ksouri , a software engineer| FullStack Developer
 
 ## 🚀 About Me
-Passionnée par le développement FullStack et les technologies de pointe, je possède un an d'expérience acquise lors de mon stage de PFE et de missions en freelance. 
-Je souhaite poursuivre ma carrière en contribuant à des projets innovants, tout en continuant à développer mes compétences et à apprendre dans le domaine des solutions technologiques avancées. 
+A Software Engineering Graduate and Full-Stack Developer with one year of experience, gained through a final-year internship and freelance projects. Passionate about innovative technologies, dedicated to building scalable solutions, eager to contribute expertise to impactful projects, and always open to collaboration and continuous learning
 
 ## 💼 Technologies et outils que j’utilise
 - **Frontend** : Angular, TypeScript, HTML, CSS
